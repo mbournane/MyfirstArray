@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\bin\Debug\net7.0\MyfirstArray.exe
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\bin\Debug\net7.0\MyfirstArray.deps.json
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\bin\Debug\net7.0\MyfirstArray.runtimeconfig.json
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\bin\Debug\net7.0\MyfirstArray.dll
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\bin\Debug\net7.0\MyfirstArray.pdb
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.AssemblyInfo.cs
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.dll
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\refint\MyfirstArray.dll
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.pdb
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\MyfirstArray.genruntimeconfig.cache
+C:\WildSchoul_Formation\S02\Quete\MyfirstArray\obj\Debug\net7.0\ref\MyfirstArray.dll
